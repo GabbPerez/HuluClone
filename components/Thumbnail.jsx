@@ -1,4 +1,4 @@
-import Image from "next/image"
+import Image from "next/legacy/image"
 import Results from "./Results";
 import {ThumbUpIcon} from "@heroicons/react/outline"
 import { forwardRef } from "react";
